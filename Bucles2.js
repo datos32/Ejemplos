@@ -1,6 +1,6 @@
 let Nota = parseInt(prompt("Introduce un numero: "));
 
-        if(Nota < 0 || Nota > 10)sdsds
+        if(Nota < 0 || Nota > 10)
         {
             alert("Introduce un numero valido!");
         }
